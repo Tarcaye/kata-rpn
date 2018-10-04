@@ -5,7 +5,7 @@ kata de calculatrice en reverse polish notation
 
 ## reverse polish notation calculator
 
-Reverse Polish Notation (RPN) est une notation mathématique où chaque operateur suit ses operandes.Contrairement à la notation polonaise standart, où l'opérateur précéde ses opérandes.
+Reverse Polish Notation (RPN) est une notation mathématique où chaque operateur suit ses opérandes. Contrairement à la notation polonaise standard, où l'opérateur précède ses opérandes.
 
 
 _Des exemples valent mieux qu'un long discours:_
@@ -24,5 +24,5 @@ _Des exemples valent mieux qu'un long discours:_
 
 - 1 2 + 4 × 5 + 3 − => ((1+2) x 4) + 5 - 3 => 14
 
-- 5 4 1 2 + × + => 5 + (4 x (1+2)) 
+- 5 4 1 2 + × + => 5 + (4 x (1+2)) => 17
 
